@@ -1,0 +1,213 @@
+2021-09-07 18:59:30,358 INFO main com.terium.main.ConfrontaTask (main.java:16) - Iniciando proceso de carga de confrontas...
+2021-09-07 18:59:30,400 DEBUG main com.terium.procesos.MainProcess (obtieneBancosAgenciasConfronta.java:32) - obtiene agencias...
+2021-09-07 18:59:30,403 DEBUG main com.terium.dao.CBBancoAgenciasConfrontaDao (obtieneListadoBancoAgenciaConfronta.java:55) - consulta agencias...
+2021-09-07 18:59:30,443 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:30,449 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:30,449 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:30,450 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:30,450 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:30,450 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:30,450 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,175 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:32,791 DEBUG main com.terium.procesos.MainProcess (obtieneBancosAgenciasConfronta.java:36) - Agencias obtenidas ==:> 48
+2021-09-07 18:59:32,791 DEBUG main com.terium.procesos.MainProcess (leeCarpteAgenciaFTP.java:43) - lee carpetas por FTP...
+2021-09-07 18:59:32,792 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 18:59:32,794 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,794 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:32,795 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,795 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,795 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,795 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:32,795 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:33,999 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:34,166 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:34,166 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:34,166 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:34,166 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:34,166 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:34,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:34,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:35,401 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:36,968 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:36,969 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,158 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:38,327 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:39,525 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:40,941 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:40,942 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:40,943 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,141 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 18:59:42,316 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:42,317 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 18:59:43,517 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:07:54,491 INFO main com.terium.main.ConfrontaTask (main.java:16) - Iniciando proceso de carga de confrontas...
+2021-09-07 19:07:54,535 DEBUG main com.terium.procesos.MainProcess (obtieneBancosAgenciasConfronta.java:32) - obtiene agencias...
+2021-09-07 19:07:54,539 DEBUG main com.terium.dao.CBBancoAgenciasConfrontaDao (obtieneListadoBancoAgenciaConfronta.java:55) - consulta agencias...
+2021-09-07 19:07:54,577 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:54,581 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:07:54,581 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:54,582 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:54,582 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:54,582 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:54,582 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,311 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:07:56,955 DEBUG main com.terium.procesos.MainProcess (obtieneBancosAgenciasConfronta.java:36) - Agencias obtenidas ==:> 48
+2021-09-07 19:07:56,956 DEBUG main com.terium.procesos.MainProcess (leeCarpteAgenciaFTP.java:43) - lee carpetas por FTP...
+2021-09-07 19:07:56,956 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:07:56,958 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,958 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:07:56,959 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,959 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,959 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,959 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:56,959 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,205 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:07:58,390 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:58,391 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:07:59,591 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:01,100 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:01,101 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,310 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:02,465 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:03,663 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:05,138 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:05,138 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:05,139 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:05,139 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:05,139 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:05,139 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:05,140 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:05,140 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,389 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:06,552 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:06,553 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:07,736 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:09,125 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:09,125 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:09,125 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:09,125 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:09,125 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:09,125 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:09,126 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:09,126 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,308 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:10,482 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,482 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:10,482 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,483 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,483 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,483 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:10,483 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:11,915 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:13,245 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:13,245 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:13,245 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:13,245 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:13,245 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:13,246 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:13,246 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:13,246 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,514 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:14,677 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:15,863 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:17,153 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:17,154 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,399 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:18,569 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:18,570 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:19,802 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:21,166 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:21,167 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,367 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:22,556 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,557 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:22,557 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,557 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,557 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,558 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:22,558 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:23,762 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:25,102 DEBUG main com.terium.procesos.MainProcess (obtenerAchivosPorFTP.java:93) - obtiene archivos por ftp..
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:25,102 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,297 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getConnection.java:43) - se obtiene el valor de la ip: 10.231.128.88
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,462 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:26,463 INFO main com.terium.utils.DBUtils (getValor.java:25) - antes de obtener configuracion
+2021-09-07 19:08:27,620 DEBUG main com.terium.utils.DBUtils (getConnection.java:62) - Conexion a bk: jdbc:oracle:thin:@10.231.128.88:1521:ttelcasv
