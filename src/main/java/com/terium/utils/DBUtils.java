@@ -25,8 +25,8 @@ public class DBUtils {
 			logger.info("antes de obtener configuracion");
 			if (propiedades == null) {
 				propiedades = new Properties();
-				//propiedades.load(new FileInputStream("src/main/resources/configuracion.properties"));
-				propiedades.load(new FileInputStream("configuracion.properties"));
+				propiedades.load(new FileInputStream("src/main/resources/configuracion.properties"));
+				//propiedades.load(new FileInputStream("configuracion.properties"));
 				//propiedades.load(new FileInputStream("configuracion.properties"));
 			}
 			return propiedades.getProperty(llave).trim();
