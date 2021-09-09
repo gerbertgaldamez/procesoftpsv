@@ -434,9 +434,9 @@ public class ProcessFileTxtService {
 									splitDataLenght = splitData.length;
 									// Condicion editada por Carlos Godinez - Qitcorp - 22/05/2017
 									splitDataValidos = new String[cantAgrup];
+
 								}
 
-								splitDataLenght = splitData.length;
 								System.out.println("Numero de columnas del archivo: " + splitDataLenght);
 
 								// Examina que el numero de columnas de la linea que se esta leyendo sea
@@ -637,20 +637,22 @@ public class ProcessFileTxtService {
 		CBDataSinProcesarModel dataSinProcesarModel = new CBDataSinProcesarModel();
 		Date fechaCreacion = new Date();
 		SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
-		String[] splitData=null;
-		String[] splitNomCl=null;
-		
-		if (ArrayUtils.isNotEmpty(data) && isDataColumn) {
-			splitData = data;
-			splitNomCl = ArrayUtils.removeAll(this.nomenclatura.split(","), 0, 1);
+		String[] splitData = null;
+		String[] splitNomCl = null;
 
-		} else {
-			if (this.nomenclatura.contains(Constants.NOM_FECHA_TIPO5))
+		if (ArrayUtils.isNotEmpty(data)) {
+			if (isDataColumn) {
 				splitData = data;
-			else
-				splitData = strLine.split("\\" + delimitador1);
+				splitNomCl = ArrayUtils.removeAll(this.nomenclatura.split(","), 0, 1);
 
-			splitNomCl = this.nomenclatura.split(",");
+			} else {
+				if (this.nomenclatura.contains(Constants.NOM_FECHA_TIPO5))
+					splitData = data;
+				else
+					splitData = strLine.split("\\" + delimitador1);
+
+				splitNomCl = this.nomenclatura.split(",");
+			}
 		}
 		// System.out.println("SPLITDATA: " + splitData.length);
 		System.out.println("-----------------------------------");
@@ -887,7 +889,7 @@ public class ProcessFileTxtService {
 				if ("R".equals(valueToSave)) {
 					bancoModel.setCbAgenciaVirfisCodigo(strData.trim());
 				}
-				
+
 				if (Constants.NOM_FECHA_TIPO5.equals(valueToSave)) {
 					bancoModel.setFecha(strData);
 					bancoModel.setDia(strData);
